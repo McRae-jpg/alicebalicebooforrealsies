@@ -1,0 +1,306 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://9e44a2c0-1680-4c96-8f3c-ef25aae6aaea",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "It's the Book of Ballymote, key Gaelic History book that is very exciting to read. I kind of cocked up so this is some of the first few pages, oops.",
+			"@language": "Anyways here's the link: https://www.isos.dias.ie/RIA/RIA_MS_23_P_12.html"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://4775d4c4-d513-444e-a2bc-808a0d7b4842",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://82442652-ee02-4ff3-8375-029109238f4c",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 7998,
+					"width": 5349,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://93008c12-1f80-48ac-9cc3-87586a80d2ff",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F001.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F001.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 50000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7998,
+								"width": 5349
+							},
+							"on": "http://82442652-ee02-4ff3-8375-029109238f4c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://146a0daf-d0a5-41a2-a111-4d17a7ae5e91",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 7998,
+					"width": 5349,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d7215ab8-2058-4295-87cc-73bda8435ffa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F004.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F004.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 50000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7998,
+								"width": 5349
+							},
+							"on": "http://146a0daf-d0a5-41a2-a111-4d17a7ae5e91"
+						}
+					],
+					"related": {
+						"@id": "",
+						"label": "",
+						"format": ""
+					}
+				},
+				{
+					"@id": "http://66783243-6fea-4d21-9502-a575e6cf7d55",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 7998,
+					"width": 5349,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9a278367-f0b4-4c85-90f2-651669d65a51",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F006.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F006.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 50000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7998,
+								"width": 5349
+							},
+							"on": "http://66783243-6fea-4d21-9502-a575e6cf7d55"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a42eca8e-6df1-4c42-9f64-7e7026ae12d1",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 7998,
+					"width": 5349,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8f603a72-afc8-46cb-8059-e01371ff0238",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F010.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.isos.dias.ie/iiif/2/RIA%2FRIA_MS_23_P_12%2F010.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"tif",
+												"jpg",
+												"gif",
+												"png"
+											],
+											"maxArea": 50000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7998,
+								"width": 5349
+							},
+							"on": "http://a42eca8e-6df1-4c42-9f64-7e7026ae12d1"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
